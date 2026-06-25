@@ -40,7 +40,7 @@
 ### 📈 Estatísticas
 
 <p align="left">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=lovssthznI&show_icons=true&theme=dark&hide_border=true&bg_color=0D1117" />
+  <img height="160" src="https://github-readme-stats.vercel.app/api?username=lovssthzn&show_icons=true&theme=dark&hide_border=true&bg_color=0D1117" />
   <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lovssthzn&layout=compact&theme=dark&hide_border=true&bg_color=0D1117" />
 </p>
 
