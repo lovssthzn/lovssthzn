@@ -47,5 +47,5 @@
 ---
 
 ### 📫 Conecte-se comigo
-* 🌐 **LinkedIn:** [seu-perfil](https://www.linkedin.com/in/arthur-gon%C3%A7alves-costa-68153930b/)
+* 🌐 **LinkedIn:** [Arthur Gonçalves Costa](https://www.linkedin.com/in/arthur-gon%C3%A7alves-costa-68153930b/)
 * ✉️ **E-mail:** a.ctrlplay@gmail.com
