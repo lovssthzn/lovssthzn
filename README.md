@@ -1,6 +1,6 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0A66C2&height=120&section=header&animation=fadeIn"/>
 
-# 👋 Hi, I'm Arthur Costa
+# 👋 Hi, I'm Arthur Gonçalves
 
 > **AI Engineer** | Automation & Full Stack Development
 
