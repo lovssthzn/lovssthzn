@@ -13,7 +13,7 @@ Currently looking for a **Tech internship** (Automation, Backend, or AI Engineer
 ### 📊 Stats
 
 <p align="center">
-  <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=lovssthzn&theme=transparent&hide_border=true&locale=en" alt="GitHub Streak" /></a>
+  <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=lovssthzn&theme=transparent&hide_border=true&border_radius=3.1" alt="GitHub Streak" /></a>
 </p>
 <p align="center">
 <picture data-importer="pacman">
