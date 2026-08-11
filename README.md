@@ -28,7 +28,7 @@ Currently looking for a **Tech internship** (Automation, Backend, or AI Engineer
 ### 📫 Contact
 
 <div align="center"> 
-  <a href="https://www.linkedin.com/in/arthur-gon%C3%A7alves-costa-68153930b/" target="_blank">
+  <a href="https://www.linkedin.com/in/arthur-gonçalves-68153930b/" target="_blank">
     <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white">
   </a>
   <a href="https://github.com/lovssthzn" target="_blank">
