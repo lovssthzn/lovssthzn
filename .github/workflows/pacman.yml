@@ -29,3 +29,6 @@ jobs:
           build_dir: dist
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+       
+      - name: GitHub Readme Streak Stats Action
+        uses: DenverCoder1/github-readme-streak-stats@v1.7.0   
